@@ -4,13 +4,11 @@
 
 # MVP – Engenharia de Dados
 
-**Pós-graduação em Engenharia de Dados – PUC-Rio**
-
-## Visão Geral
-
 Este repositório contém o **MVP desenvolvido para a disciplina de Engenharia de Dados**, cujo objetivo é demonstrar a aplicação prática de conceitos de **ingestão, transformação, modelagem, qualidade de dados e análise analítica**, utilizando um ambiente de dados em nuvem (Databricks).
 
-O projeto cobre todo o **ciclo de vida dos dados**, desde a coleta até a geração de insights de negócio, seguindo boas práticas de arquitetura e governança de dados.
+O projeto cobre todo o **ciclo de vida dos dados**, desde a coleta até a geração de insights de negócio, seguindo boas práticas de arquitetura e governança de dados aprendidas na disciplina. 
+
+O "Readme" propõe somente passar uma visão resumida do que foi feito no databricks. Junto a esse documento, foi feito o upload de dois arquivos, o primeiro de formato HTML para uma versão completa do notebook exportada do Databricks e uma ipynb que permite a visualização direta pelo direta no GitHub. Adicionalmente, como evidência, subirei o arquivo HTML no site da pós juntamente com o link do repositório do Github. Nesses arquivos será possível identificar todo o trabalho feito de código, difículdades e processos de decisão
 
 ---
 
@@ -38,7 +36,7 @@ Os dados são públicos e foram utilizados respeitando princípios éticos e aca
 
 ## Arquitetura de Dados
 
-O projeto segue a **Metodologia Medalhão**, amplamente utilizada em arquiteturas modernas de dados:
+O projeto segue a **Metodologia Medalhão**, utilizada em arquiteturas de dados:
 
 ### Camada Bronze
 
